@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: Welcome to Women's Workshop Richmond!
 description: null
 image: null
 author: null
